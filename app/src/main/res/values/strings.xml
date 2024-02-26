@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="reset">Reset Game</string>
+    <string name="instructions">Welcome To Connect 4!\n\nYou are the color Blue\n\nRules: You and a computer take turns placing checkers into the grid until one player has a row of 4 of his or her checkers in a row. The row can be up and down (vertical), across (horizontal), or diagonal. 4. The first player to make a row wins the game.</string>
+    <string name="name">Enter Your Name</string>
+    <string name="tie_game">The game ended in a tie.</string>
+    <string name="player_won">You won Connect 4!.</string>
+    <string name="start_button">Start Game</string>
+    <string name="player_turn">It is Your turn</string>
+    <string name="enjoy_message">Enjoy the Game %1$s.</string>
+    <string name="computer_turn">It Is The Computer\'s turn.</string>
+    <string name="computer_won">The computer has won.</string>
+</resources>
